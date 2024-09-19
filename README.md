@@ -938,12 +938,20 @@ print(f'Error cuadrático medio: {mse:.2f}')
 
 ![R-2 score del modelo de predicción lineal](imgs/DPD-33.jpg)
 
+La línea se ajusta a gran cantidad de los puntos, con un r-score de 0.62, el cual no es el esperado, pero es un buen indicio para poder predecir la temperatura en Florida. Esto será de gran ayuda para **Yhair y Luis**, ahora ellos están decididos en emprender su viaje hacia Florida, podrán planificar su lista de lugares a visitar en base a sus gustos personales.
+
 ## Conclusiones Finales:
 
 - El clima de EE.UU. es altamente variable a lo largo del año, con una temperatura promedio de 14.01°C.
 - No existe una correlación significativa entre la velocidad del viento más rápida y la precipitación diaria.
 - Las estaciones analizadas no presentan vientos con altas velocidades, debido a que otoño no ha sido analizado.
 - La precipitación es más intensa en los meses de verano y en estaciones específicas.
+
+## Anexos:
+
+Presentación: https://docs.google.com/presentation/d/1yfO6KBllUVazm6igibiQlP64tbGq0gEqHSlb_niYbhw/edit?usp=sharing
+
+Collab: https://colab.research.google.com/drive/1W8a4bv2WOUbKv5Qyxnbfr-2a_pvVZA6j?usp=sharing
 
 ## Requerimientos:
 
