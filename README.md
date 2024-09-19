@@ -530,13 +530,13 @@ e) **CASO PARTICULAR: ITINERARIO DE VIAJE**
 
 ![Presentación: Itinerario de viaje](imgs/DPD-20.jpg)
 
-En base a lo encontrado, les presento a 2 personas, ellos son Yhair Huertas y Luis Cubillas, **2 grandes amigos amantes del clima cálido**, es por ello que se han planteado como objetivo realizar un viaje a los Estados Unidos, con destino a **Florida**. Ellos han investigado y saben que su lugar de destino está situado en la costa del país y el clima es ideal para su gusto.
-
-Es por ello que recurren a datos metereológicos, de manera que puedan predecir la temperatura en **Florida** en diferentes épocas del año.
-
 Debido a que todas las **estaciones son aeropuertos**, y la cantidad de aeropuertos en EEUU es muy grande, nos centraremos en un solo estado, el cual es el estado más concurrido del país, **Florida**.
 
 Fuente: (https://www.airalo.com/blog/the-top-5-us-states-to-visit-for-international-travelers#:~:text=1.,Florida&text=Florida%20saw%20just%20a%20nearly,Disney%20World%20and%20Universal%20Studios)
+
+En base a lo encontrado, les presento a 2 personas, ellos son Yhair Huertas y Luis Cubillas, **2 grandes amigos amantes del clima cálido**, es por ello que se han planteado como objetivo realizar un viaje a los Estados Unidos, con destino a **Florida**. Ellos han investigado y saben que su lugar de destino está situado en la costa del país y el clima es ideal para su gusto.
+
+Es por ello que recurren a datos metereológicos, de manera que puedan predecir la temperatura en **Florida** en diferentes épocas del año.
 
 ### 3. Selección de Características:
 
